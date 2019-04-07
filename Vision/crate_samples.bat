@@ -1,0 +1,1 @@
+"C:\opencv\build\x64\vc14\bin\opencv_createsamples.exe"  -info "pos.txt" -vec pos.vec -num 200 -w 200 -h 200
