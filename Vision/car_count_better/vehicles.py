@@ -78,7 +78,7 @@ class Car:
 
     def age_one(self):
         self.age+=1                                     #将age值加1
-        if self.age>self.max_age:                       #如果age值大于5，则self.done为真
+        if self.age>self.max_age:                       #如果age值大于5，则self.done为真,即判定位出界处理
             self.done=True
         return  True                                    #返回真，貌似无意义？？？
 
